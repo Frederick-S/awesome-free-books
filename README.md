@@ -49,6 +49,7 @@
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml)
 - [SICP Distilled](http://www.sicpdistilled.com/)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [Composing Programs](https://composingprograms.com/)
 
 ## Programming Languages
 ### C
