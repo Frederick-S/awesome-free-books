@@ -35,6 +35,7 @@
 ## Networking
 - [The TCP/IP Guide](http://www.tcpipguide.com/free/index.htm)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
+- [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/)
 
 ## Linux
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
