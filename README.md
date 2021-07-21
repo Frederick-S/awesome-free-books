@@ -28,6 +28,8 @@
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Think OS: A Brief Introduction to Operating Systems](http://greenteapress.com/thinkos/html/index.html)
+- [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+- [The little book about OS development](https://littleosbook.github.io/#reasons-to-not-identity-map-the-kernel)
 
 ## Database
 - [Foundations of Databases](http://webdam.inria.fr/Alice/)
