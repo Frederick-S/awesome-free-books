@@ -22,6 +22,7 @@
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- [Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
 
 ## Operating Systems
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
