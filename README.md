@@ -138,3 +138,4 @@
 - [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 - [Learn LaTeX](https://www.learnlatex.org/en/)
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
