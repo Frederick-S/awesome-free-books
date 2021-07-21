@@ -114,11 +114,14 @@
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
+## Architecture
+- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
+- [凤凰架构](http://icyfenix.cn/)
+
 ## German
 - [A Foundation Course in Reading German](https://courses.dcs.wisc.edu/wp/readinggerman/)
 
 ## Others
-- [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/)
 - [Object-Oriented System Development](http://gee.cs.oswego.edu/dl/oosdw3/index.html)
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
