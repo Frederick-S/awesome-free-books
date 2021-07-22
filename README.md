@@ -30,6 +30,7 @@
 - [Think OS: A Brief Introduction to Operating Systems](http://greenteapress.com/thinkos/html/index.html)
 - [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 - [The little book about OS development](https://littleosbook.github.io/#reasons-to-not-identity-map-the-kernel)
+- [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 
 ## Database
 - [Foundations of Databases](http://webdam.inria.fr/Alice/)
