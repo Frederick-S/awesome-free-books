@@ -105,6 +105,7 @@
 
 ### OCaml
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+- [Real World OCaml](https://dev.realworldocaml.org/)
 
 ### Haskell
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
