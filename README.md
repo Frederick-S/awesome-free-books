@@ -102,6 +102,7 @@
 ### Go
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
 - [Go 101](https://go101.org/article/101.html)
+- [Go 语言设计与实现](https://draveness.me/golang/)
 
 ### OCaml
 - [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
