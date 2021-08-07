@@ -85,6 +85,7 @@
 - [Dive Into Python 3](https://diveinto.org/python3/table-of-contents.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+- [Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ### Clojure
 - [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
