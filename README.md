@@ -41,6 +41,10 @@
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 - [Packet Traveling](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling/)
 
+## Distributed Systems
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+- [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds3/)
+
 ## Linux
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [The Linux Kernel](https://www.tldp.org/LDP/tlk/tlk.html)
@@ -131,7 +135,6 @@
 ## Others
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/)
 - [Object-Oriented System Development](http://gee.cs.oswego.edu/dl/oosdw3/index.html)
-- [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
 - [Concurrent Programming for Scalable Web Architectures](https://berb.github.io/diploma-thesis/community/index.html)
