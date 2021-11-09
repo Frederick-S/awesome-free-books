@@ -150,3 +150,4 @@
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
+- [Game Hacking Academy](https://gamehacking.academy/about)
