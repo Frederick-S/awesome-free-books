@@ -127,6 +127,7 @@
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [Git In The Trenches](https://cbx33.github.io/gitt/index.html)
 
 ## Architecture
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html)
