@@ -154,3 +154,4 @@
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
 - [Game Hacking Academy](https://gamehacking.academy/about)
 - [The Joy of Cryptography](https://joyofcryptography.com/)
+- [Pan Docs](https://gbdev.io/pandocs/)
