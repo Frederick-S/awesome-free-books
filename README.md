@@ -32,6 +32,7 @@
 - [The little book about OS development](https://littleosbook.github.io/#reasons-to-not-identity-map-the-kernel)
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 - [Dive into Systems](https://diveintosystems.org/)
+- [Writing a RISC-V-based 64-bit operating system in C](https://cn-guoziyang.github.io/Moonix/#/)
 
 ## Database
 - [Foundations of Databases](http://webdam.inria.fr/Alice/)
