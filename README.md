@@ -16,6 +16,7 @@
 ## Algorithm & Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [Problem Solving with Algorithms and Data Structures using Python](http://www.openbookproject.net/books/pythonds/)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 ## Compiler & Interpreter
 - [Crafting Interpreters](http://craftinginterpreters.com/)
