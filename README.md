@@ -121,6 +121,9 @@
 ### Haskell
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
+### Nim
+- [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html)
+
 ## Redis
 - [Redis in Action](https://redislabs.com/redis-in-action/)
 - [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book)
