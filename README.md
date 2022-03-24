@@ -30,7 +30,7 @@
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Think OS: A Brief Introduction to Operating Systems](http://greenteapress.com/thinkos/html/index.html)
 - [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-- [The little book about OS development](https://littleosbook.github.io/#reasons-to-not-identity-map-the-kernel)
+- [The little book about OS development](https://littleosbook.github.io/)
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 - [Dive into Systems](https://diveintosystems.org/)
 - [Writing a RISC-V-based 64-bit operating system in C](https://cn-guoziyang.github.io/Moonix/#/)
