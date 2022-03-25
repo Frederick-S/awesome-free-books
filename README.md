@@ -5,6 +5,7 @@
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)
+- [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
 ## Computer Science
 - [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/)
