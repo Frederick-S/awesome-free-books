@@ -19,6 +19,7 @@
 - [Problem Solving with Algorithms and Data Structures using Python](http://www.openbookproject.net/books/pythonds/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 ## Compiler & Interpreter
 - [Crafting Interpreters](http://craftinginterpreters.com/)
