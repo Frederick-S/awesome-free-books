@@ -60,6 +60,7 @@
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/)
+- [Effective Shell](https://effective-shell.com/)
 
 ## Programming
 - [How to Design Programs](https://htdp.org/)
