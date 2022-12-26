@@ -12,7 +12,7 @@
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 - [CS Principles: Big Ideas in Programming](http://www.openbookproject.net/books/StudentCSP/)
 - [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
-- [Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 
 ## Algorithm & Data Structures
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
