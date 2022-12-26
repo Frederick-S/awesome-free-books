@@ -121,7 +121,7 @@
 - [Real World OCaml](https://dev.realworldocaml.org/)
 
 ### Haskell
-- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+- [What I Wish I Knew When Learning Haskell](https://smunix.github.io/dev.stephendiehl.com/hask/tutorial.pdf)
 
 ### Nim
 - [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html)
@@ -147,7 +147,7 @@
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/)
 - [Object-Oriented System Development](http://gee.cs.oswego.edu/dl/oosdw3/index.html)
 - [High Performance Browser Networking](https://hpbn.co/)
-- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
+- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en)
 - [Concurrent Programming for Scalable Web Architectures](https://berb.github.io/diploma-thesis/community/index.html)
 - [The Twelve-Factor App](https://12factor.net/)
 - [Secure Programming HOWTO](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
