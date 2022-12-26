@@ -82,9 +82,7 @@
 - [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 - [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
-- [JavaScript for Data Science](http://js4ds.org/)
 - [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 
 ### TypeScript
