@@ -110,6 +110,7 @@
 
 ### Rust
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 ### Go
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)
