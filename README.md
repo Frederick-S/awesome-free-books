@@ -68,6 +68,7 @@
 - [SICP Distilled](http://www.sicpdistilled.com/)
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Composing Programs](https://composingprograms.com/)
+- [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp)
 
 ## Programming Languages
 ### C
