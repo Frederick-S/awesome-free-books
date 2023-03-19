@@ -128,6 +128,9 @@
 ### Nim
 - [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html)
 
+### Assembly
+- [A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book)
+
 ## Redis
 - [Redis in Action](https://redislabs.com/redis-in-action/)
 - [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book)
