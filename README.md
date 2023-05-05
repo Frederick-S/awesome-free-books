@@ -69,6 +69,9 @@
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Composing Programs](https://composingprograms.com/)
 - [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/)
+- [Programming and Programming Languages](https://papl.cs.brown.edu/2020/)
 
 ## Programming Languages
 ### C
