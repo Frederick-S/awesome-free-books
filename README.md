@@ -6,6 +6,7 @@
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
+- [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
 ## Computer Science
 - [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/)
@@ -27,6 +28,7 @@
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 - [Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
+- [Let's Build a Compiler](https://xmonader.github.io/letsbuildacompiler-pretty/about.html)
 
 ## Operating Systems
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
