@@ -172,3 +172,4 @@
 - [Game Hacking Academy](https://gamehacking.academy/about)
 - [The Joy of Cryptography](https://joyofcryptography.com/)
 - [Pan Docs](https://gbdev.io/pandocs/)
+- [How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)
