@@ -87,7 +87,6 @@
 ### JavaScript
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
 - [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
