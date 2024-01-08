@@ -168,7 +168,7 @@
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu/)
-- [Game Hacking Academy](https://gamehacking.academy/about)
+- [Game Hacking Academy](https://gamehacking.academy)
 - [The Joy of Cryptography](https://joyofcryptography.com/)
 - [Pan Docs](https://gbdev.io/pandocs/)
 - [How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)
