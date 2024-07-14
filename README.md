@@ -7,6 +7,8 @@
 - [Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)
 - [Introduction to Probability for Data Science](https://probability4datascience.com/)
 - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+- [Linear Algebra Done Right](https://linear.axler.net/)
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
 
 ## Computer Science
 - [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/)
