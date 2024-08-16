@@ -77,6 +77,7 @@
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
 - [Programming Languages: Application and Interpretation](https://www.plai.org/)
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2020/)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/)
 
 ## Programming Languages
 ### C
@@ -174,3 +175,4 @@
 - [The Joy of Cryptography](https://joyofcryptography.com/)
 - [Pan Docs](https://gbdev.io/pandocs/)
 - [How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)
+- [Data Science at the Command Line ](https://jeroenjanssens.com/dsatcl/)
