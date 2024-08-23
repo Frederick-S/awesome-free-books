@@ -43,6 +43,7 @@
 - [Dive into Systems](https://diveintosystems.org/)
 - [Writing a RISC-V-based 64-bit operating system in C](https://cn-guoziyang.github.io/Moonix/#/)
 - [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
+- [Putting the “You” in CPU](https://cpu.land/)
 
 ## Database
 - [Foundations of Databases](http://webdam.inria.fr/Alice/)
