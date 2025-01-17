@@ -32,6 +32,7 @@
 - [Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
 - [Let's Build a Compiler](https://xmonader.github.io/letsbuildacompiler-pretty/about.html)
 - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+- [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
 
 ## Operating Systems
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
