@@ -178,3 +178,4 @@
 - [Pan Docs](https://gbdev.io/pandocs/)
 - [How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)
 - [Data Science at the Command Line ](https://jeroenjanssens.com/dsatcl/)
+- [Software Design by Example](https://third-bit.com/sdxpy/)
